@@ -16,7 +16,7 @@ class ApplicationController < Sinatra::Base
   end
   
   post '/newyork' do
-    erb :newyork
+    return erb :newyork
   end
   
   post '/losang' do
