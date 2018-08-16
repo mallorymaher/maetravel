@@ -1,0 +1,145 @@
+body {
+    background-color: white;
+}
+body {
+    background-image: url("https://s-i.huffpost.com/gen/2454746/images/o-MIAMI-BEACH-facebook.jpg");
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: #202c2d;
+    text-shadow:
+    0 1px #808d93,
+    -1px 0 #cdd2d5,
+    -1px 2px #808d93,
+    -2px 1px #cdd2d5,
+    -2px 3px #808d93,
+    -3px 2px #cdd2d5,
+    -3px 4px #808d93,
+    -4px 3px #cdd2d5,
+    -4px 5px #808d93,
+    -5px 4px #cdd2d5,
+    -5px 6px #808d93,
+    -6px 5px #cdd2d5,
+    -6px 7px #808d93,
+    -7px 6px #cdd2d5,
+    -7px 8px #808d93,
+    -8px 7px #cdd2d5;
+}
+body {
+    background-color: white;
+}
+h3 {
+    color: black;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: #202c2d;
+    text-shadow:
+    0 1px #808d93,
+    -1px 0 #cdd2d5,
+    -1px 2px #808d93,
+    -2px 1px #cdd2d5,
+    -2px 3px #808d93,
+    -3px 2px #cdd2d5,
+    -3px 4px #808d93,
+    -4px 3px #cdd2d5,
+    -4px 5px #808d93,
+    -5px 4px #cdd2d5,
+    -5px 6px #808d93,
+    -6px 5px #cdd2d5,
+    -6px 7px #808d93,
+    -7px 6px #cdd2d5,
+    -7px 8px #808d93,
+    -8px 7px #cdd2d5;
+}
+
+body {
+    background-color: white;
+}
+h5 {
+    color: black;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: #202c2d;
+    text-shadow:
+    0 1px #808d93,
+    -1px 0 #cdd2d5,
+    -1px 2px #808d93,
+    -2px 1px #cdd2d5,
+    -2px 3px #808d93,
+    -3px 2px #cdd2d5,
+    -3px 4px #808d93,
+    -4px 3px #cdd2d5,
+    -4px 5px #808d93,
+    -5px 4px #cdd2d5,
+    -5px 6px #808d93,
+    -6px 5px #cdd2d5,
+    -6px 7px #808d93,
+    -7px 6px #cdd2d5,
+    -7px 8px #808d93,
+    -8px 7px #cdd2d5;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.button {
+    background-color: #e7e7e7; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #555555;
+    text-align: center
+}
+.button1:hover {
+    background-color: #555555;
+    color: white;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #555555;
+}
+.button2:hover {
+    background-color: #555555;
+    color: white;
+}
+.button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #555555;
+}
+.button3:hover {
+    background-color: #555555;
+    color: white;
+}
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+.button4:hover {background-color: #555555;}
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}

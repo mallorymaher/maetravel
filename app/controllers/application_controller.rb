@@ -26,6 +26,10 @@ class ApplicationController < Sinatra::Base
   post '/stlouis' do
     erb :stlouis
   end
+  
+  post '/miami' do
+    erb :miami
+  end
 
   post '/thankyou' do
     erb :thankyou
