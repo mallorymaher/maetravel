@@ -1,42 +1,43 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Mae Travel Associates</title>
+    <meta charset="UTF-8">
+    <title>Mae Travel Associates</title>
   </head>
-  <body> 
-   <div class="w3-row-padding w3-grayscale">
-    <div class="w3-col m4 w3-margin-bottom">
-      <div class="w3-light-grey">
-        <img src="/w3images/team2.jpg" alt="Mallory" style="width:100%">
-        <div class="w3-container">
-          <h3>Mallory Maher</h3>
-          <p class="w3-opacity">Klossy Scholar</p>
-          <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-        </div>
+
+  <body>
+    <h1>Enter your favorite celebs to form a celeb power couple </h1>
+    <img src="https://data.whicdn.com/images/105807026/superthumb.jpg?t=1394540216">
+
+    <!-- Insert Your Form Below -->
+    
+  <form method="POST" action="/celebs">
+  <p>Male Celeb: <input type="text" name = "male_celeb" ></p>
+  <p>Female Celeb: <input type="text" name = "female_celeb"> </p>
+  <input type="submit">
+  </form>
+  
+  <div id="contact" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Contact.</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <p>Do you want a travel experience tailored to your interests? Fill out the form below and fill me in with the details :) We would love to help you and your family enjoy your trip to the fullest extent!</p>
+    <form action="/action_page.php" target="_blank">
+      <div class="w3-section">
+        <label>Name</label>
+        <input class="w3-input w3-border" type="text" name="Name" required>
       </div>
-    </div>
-    <div class="w3-col m4 w3-margin-bottom">
-      <div class="w3-light-grey">
-        <img src="/w3images/team1.jpg" alt="April" style="width:100%">
-        <div class="w3-container">
-          <h3>April Mata</h3>
-          <p class="w3-opacity">Klossy Scholar</p>
-          <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-        </div>
+      <div class="w3-section">
+        <label>Email</label>
+        <input class="w3-input w3-border" type="text" name="Email" required>
       </div>
-    </div>
-    <div class="w3-col m4 w3-margin-bottom">
-      <div class="w3-light-grey">
-        <img src="/w3images/team3.jpg" alt="Elana Pocress" style="width:100%">
-        <div class="w3-container">
-          <h3>Elana Pocress</h3>
-          <p class="w3-opacity">Klossy Scholar</p>
-          <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-        </div>
+      <div class="w3-section">
+        <label>Message</label>
+        <input class="w3-input w3-border" type="text" name="Message" required>
       </div>
-    </div>
+      <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom">Send Message</button>
+    </form>  
   </div>
 
-  </body> 
-  </html>
-  
+
+  </body>
+</html>
