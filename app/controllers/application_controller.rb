@@ -12,7 +12,7 @@ class ApplicationController < Sinatra::Base
   end
   
   post '/thankyou' do
-    "We are so glad that you chose Mae Travel Associates, #{params[:name]} to help you get the most out of your next trip. We will be in contact with you soon. <a href = #PUT OUR FINAL LINK HERE Click here to refer our website to a friend </a>"
+    "We are so glad that you chose Mae Travel Associates, #{params[:name]}, to help you get the most out of your next trip. We will be in contact with you soon. <a href = #PUT OUR FINAL LINK HERE Click here to refer our website to a friend </a>"
   end
   
   post '/newyork' do
