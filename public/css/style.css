@@ -2,29 +2,64 @@ body {
     background-color: white;
   
 }
-body {
-    background-image: url("https://www.aada.edu/template/frontend/img/campus-overview/ny-1.jpg");
+.new_york {
+  background-image: url("https://www.aada.edu/template/frontend/img/campus-overview/ny-1.jpg");
+}
+.losangeles {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Los_Angeles%2C_Winter_2016.jpg/1200px-Los_Angeles%2C_Winter_2016.jpg");
+}
+.miami {
+  background-image: url("https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1446151328/miami-header-dg1015.jpg?itok=eIwFd7q_");
+}
+.stlouis{
+    background-image: url("https://www.slalom.com/sites/default/files/stlouis-market-3c-1200x600.jpg");
+}
+.box {
+   margin-bottom: 20px;
+   padding: 30px 15px;
+   background: #fff;
+   background: rgba(255,255,255,0.9);
 }
 h1 {
     color: black;
     text-align: center;
-      font-family: "Poppins", sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 body {
     background-color: white;
 }
-h3 {
-    color: black;
-    text-align: center;
-  font-family: "Poppins", sans-serif
-}
 body {
-    background-color: white;
-}
-h5 {
     color: black;
     text-align: center;
-  font-family: "Poppins", sans-serif
+    font-family: "Poppins", sans-serif
+}
+div {
+    color: black;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: #202c2d;
+    text-shadow:
+    0 1px #808d93,
+    -1px 0 #cdd2d5,
+    -1px 2px #808d93,
+    -2px 1px #cdd2d5,
+    -2px 3px #808d93,
+    -3px 2px #cdd2d5,
+    -3px 4px #808d93,
+    -4px 3px #cdd2d5,
+    -4px 5px #808d93,
+    -5px 4px #cdd2d5,
+    -5px 6px #808d93,
+    -6px 5px #cdd2d5,
+    -6px 7px #808d93,
+    -7px 6px #cdd2d5,
+    -7px 8px #808d93,
+    -8px 7px #cdd2d5;
+}
+div {
+    color: black;
+    text-align: center;
+    font-family: "Poppins", sans-serif
 }
 .button2 {
     background-color: white; 
@@ -32,8 +67,6 @@ h5 {
     border: 2px solid #008CBA;
 }
 
-<head>
-<style>
 .button {
     background-color: #e7e7e7; /* Green */
     border: none;
@@ -44,7 +77,6 @@ h5 {
     display: inline-block;
     font-size: 25px;
     margin: 4px 2px;
-    -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
 }
@@ -91,5 +123,3 @@ h5 {
     background-color: #555555;
     color: white;
 }
-</style>
-</head>
