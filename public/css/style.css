@@ -4,15 +4,23 @@ body {
 }
 .new_york {
   background-image: url("https://www.aada.edu/template/frontend/img/campus-overview/ny-1.jpg");
+  background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .losangeles {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Los_Angeles%2C_Winter_2016.jpg/1200px-Los_Angeles%2C_Winter_2016.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .miami {
   background-image: url("https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1446151328/miami-header-dg1015.jpg?itok=eIwFd7q_");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .stlouis{
     background-image: url("https://www.slalom.com/sites/default/files/stlouis-market-3c-1200x600.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .box {
    margin-bottom: 20px;
