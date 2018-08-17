@@ -33,7 +33,7 @@
    background: rgba(255,255,255,0.9);
 }
 .homepage {
-  background-image: url(https://media.giphy.com/media/faPiXHUHOkvEQ/giphy.gif) ;
+  background-image: url(https://images.fineartamerica.com/images-medium-large-5/states-of-united-states-typographic-map-parchment-style-ayse-deniz.jpg) ;
   color: black;
     text-align: center;
       font-family:'Raleway', sans-serif;    
@@ -45,7 +45,7 @@
 }
 
 #homecolor {
-    color: white;
+    color: black;
     text-align: center;
     font-family:'Raleway', sans-serif;
 }
