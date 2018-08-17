@@ -1,24 +1,28 @@
-body {
-    background-color: white;
-  
-}
 .new_york {
   background-image: url("https://www.aada.edu/template/frontend/img/campus-overview/ny-1.jpg");
-  background-repeat: no-repeat;
+    width:1600px;
+    height:1000px;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 .losangeles {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Los_Angeles%2C_Winter_2016.jpg/1200px-Los_Angeles%2C_Winter_2016.jpg");
+    width:1600px;
+    height:1000px;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 .miami {
   background-image: url("https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1446151328/miami-header-dg1015.jpg?itok=eIwFd7q_");
+    width:1600px;
+    height:1000px;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 .stlouis{
-    background-image: url("https://www.slalom.com/sites/default/files/stlouis-market-3c-1200x600.jpg");
+  background-image: url("https://www.slalom.com/sites/default/files/stlouis-market-3c-1200x600.jpg");
+    width:1600px;
+    height:1000px;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -28,6 +32,35 @@ body {
    background: #fff;
    background: rgba(255,255,255,0.9);
 }
+.homepage {
+  background-image: url(https://media.giphy.com/media/faPiXHUHOkvEQ/giphy.gif) ;
+  color: black;
+    text-align: center;
+      font-family:'Raleway', sans-serif;    
+  color: #202c2d;
+  width:1600px;
+    height:1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#homecolor {
+    color: white;
+    text-align: center;
+    font-family:'Raleway', sans-serif;
+}
+h5 {
+    color: black;
+    text-align: center;
+    font-family:'Raleway', sans-serif;
+}
+body {
+    color: white;
+    text-align: center;
+      font-family: 'Work Sans', sans-serif;
+  
+}
+
 h1 {
     color: black;
     text-align: center;
@@ -41,7 +74,7 @@ body {
     text-align: center;
     font-family: "Poppins", sans-serif
 }
-div {
+.shadow {
     color: black;
     text-align: center;
     font-family: "Poppins", sans-serif;
